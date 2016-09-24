@@ -1,0 +1,16 @@
+To Do before 8-Jun: -Intro
+
+1*. An introduction on eduroam, how it works, how the federation of ihls works, how authentication of users is done before allowing access
+2. Overview on the current project: Processing of log file, taking note of the number of unique users for each ihl
+3. Talk about each part with snippets of code, eg. LogExtract, Results, SaveCSV, CreateHTML
+
+Format:
+1 cover page
+2 table of contents
+3 Abstract
+4 Acknowledgement
+5 Introduction (Purpose of Report and Nature/scope of presentation)
+6 Central Chapters(Project Name, Description)
+7 Conclusion
+8 References
+9 Appendencies

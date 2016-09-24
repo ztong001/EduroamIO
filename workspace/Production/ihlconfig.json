@@ -1,0 +1,22 @@
+{"ntu":{
+	"ip": ["155.69.26.118","155.69.5.149"],
+	"server":["NTU_IdP_SP","NTU_IdP_SP2"]},
+"nus":{
+	"ip":["137.132.21.33","137.132.21.34","137.132.8.8","137.132.8.36"],
+"server":["NUS_IdP_SP_1","NUS_IdP_SP_2","SOX_IdP_SP_1","SOX_IdP_SP_2"]},
+"smu":{
+	"ip":["202.161.43.51","202.161.50.51"],
+	"server":["SMU_IdP_SP","SMU_IdP_SP2"]},
+"astar":{
+	"ip":["202.83.251.106"],
+	"server":["ASTAR_IdP_SP"]},
+"nie":{
+	"ip":["155.69.72.28","155.69.73.28","155.69.73.29"],
+	"server":["NIE_IdP_SP","NIE_IdP_SP2","NIE_IdP_SP3"]},
+"sutd":{
+	"ip":["103.24.77.31"],
+	"server":["SUTD_IdP_SP"]},
+"etlr":{
+	"ip":["192.87.106.34","130.225.242.109"],
+	"server":["etlr1.eduroam.org","etlr2.eduroam.org"]}
+}

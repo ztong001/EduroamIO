@@ -1,0 +1,96 @@
+Total number of localUsers from NTU who are abroad : 74 
+Total number of localUsers from NTU in ASTAR : 34 
+Total number of localUsers from NTU in SMU : 13 
+Total number of localUsers from NTU in NIE : 65 
+Total number of localUsers from NTU in SUTD : 4 
+Total number of localUsers from NTU in NUS : 46 
+Total number of localUsers from NTU in total: 236 
+ 
+Total number of visitors to NTU : 109 
+ 
+Total number of localUsers from ASTAR who are abroad : 0 
+Total number of localUsers from ASTAR in NTU : 2 
+Total number of localUsers from ASTAR in SMU : 0 
+Total number of localUsers from ASTAR in NIE : 1 
+Total number of localUsers from ASTAR in SUTD : 0 
+Total number of localUsers from ASTAR in NUS : 4 
+Total number of localUsers from ASTAR in total: 7 
+ 
+Total number of visitors to ASTAR : 48 
+ 
+Total number of localUsers from SMU who are abroad : 67 
+Total number of localUsers from SMU in NTU : 1 
+Total number of localUsers from SMU in ASTAR : 1 
+Total number of localUsers from SMU in NIE : 0 
+Total number of localUsers from SMU in SUTD : 2 
+Total number of localUsers from SMU in NUS : 7 
+Total number of localUsers from SMU in total: 78 
+ 
+Total number of visitors to SMU : 112 
+ 
+Total number of localUsers from NIE who are abroad : 0 
+Total number of localUsers from NIE in NTU : 11 
+Total number of localUsers from NIE in ASTAR : 0 
+Total number of localUsers from NIE in SMU : 2 
+Total number of localUsers from NIE in SUTD : 0 
+Total number of localUsers from NIE in NUS : 3 
+Total number of localUsers from NIE in total: 16 
+ 
+Total number of visitors to NIE : 0 
+ 
+Total number of localUsers from SUTD who are abroad : 0 
+Total number of localUsers from SUTD in NTU : 1 
+Total number of localUsers from SUTD in ASTAR : 0 
+Total number of localUsers from SUTD in SMU : 0 
+Total number of localUsers from SUTD in NIE : 0 
+Total number of localUsers from SUTD in NUS : 1 
+Total number of localUsers from SUTD in total: 2 
+ 
+Total number of visitors to SUTD : 18 
+ 
+Total number of localUsers from NUS who are abroad : 139 
+Total number of localUsers from NUS in NTU : 10 
+Total number of localUsers from NUS in ASTAR : 28 
+Total number of localUsers from NUS in SMU : 16 
+Total number of localUsers from NUS in NIE : 0 
+Total number of localUsers from NUS in SUTD : 0 
+Total number of localUsers from NUS in total: 193 
+ 
+Total number of visitors to NUS : 217 
+ 
+Total number of unique users this month to NTU : 346 
+Total number of rejectUnique users this month to NTU : 125 
+Total number of unique users this year to NTU : 497 
+Total number of rejectUnique users this year to NTU : 159 
+
+Total number of unique users this month to ASTAR : 55 
+Total number of rejectUnique users this month to ASTAR : 47 
+Total number of unique users this year to ASTAR : 55 
+Total number of rejectUnique users this year to ASTAR : 47 
+
+Total number of unique users this month to SMU : 190 
+Total number of rejectUnique users this month to SMU : 92 
+Total number of unique users this year to SMU : 262 
+Total number of rejectUnique users this year to SMU : 118 
+
+Total number of unique users this month to NIE : 16 
+Total number of rejectUnique users this month to NIE : 10 
+Total number of unique users this year to NIE : 16 
+Total number of rejectUnique users this year to NIE : 12 
+
+Total number of unique users this month to SUTD : 20 
+Total number of rejectUnique users this month to SUTD : 19 
+Total number of unique users this year to SUTD : 20 
+Total number of rejectUnique users this year to SUTD : 19 
+
+Total number of unique users this month to NUS : 411 
+Total number of rejectUnique users this month to NUS : 258 
+Total number of unique users this year to NUS : 699 
+Total number of rejectUnique users this year to NUS : 568 
+
+Total number of rejected from NTU for the day: 125 
+Total number of rejected from ASTAR for the day: 47 
+Total number of rejected from SMU for the day: 92 
+Total number of rejected from NIE for the day: 10 
+Total number of rejected from SUTD for the day: 19 
+Total number of rejected from NUS for the day: 258 

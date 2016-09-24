@@ -1,0 +1,8 @@
+Highest successful: 27 May- 618 users(441 fail)(415 visitors)(Total:1474)
+Highest unsuccessful: 05 May- 639 users(575 success)(669 visitors)(Total:1883)
+
+Busiest day: 05 May
+Successful: 575
+Unsuccessful: 639
+Visitors: 669
+Total: 1883

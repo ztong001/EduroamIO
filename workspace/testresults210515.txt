@@ -1,0 +1,96 @@
+Total number of localUsers from ASTAR who are abroad : 0 
+Total number of localUsers from ASTAR in NTU : 0 
+Total number of localUsers from ASTAR in SMU : 0 
+Total number of localUsers from ASTAR in NUS : 0 
+Total number of localUsers from ASTAR in SUTD : 0 
+Total number of localUsers from ASTAR in NIE : 0 
+Total number of localUsers from ASTAR in total: 0 
+ 
+Total number of visitors to ASTAR : 0 
+ 
+Total number of localUsers from NTU who are abroad : 3 
+Total number of localUsers from NTU in ASTAR : 0 
+Total number of localUsers from NTU in SMU : 1 
+Total number of localUsers from NTU in NUS : 12 
+Total number of localUsers from NTU in SUTD : 0 
+Total number of localUsers from NTU in NIE : 0 
+Total number of localUsers from NTU in total: 16 
+ 
+Total number of visitors to NTU : 192 
+ 
+Total number of localUsers from SMU who are abroad : 3 
+Total number of localUsers from SMU in ASTAR : 0 
+Total number of localUsers from SMU in NTU : 0 
+Total number of localUsers from SMU in NUS : 1 
+Total number of localUsers from SMU in SUTD : 0 
+Total number of localUsers from SMU in NIE : 0 
+Total number of localUsers from SMU in total: 4 
+ 
+Total number of visitors to SMU : 67 
+ 
+Total number of localUsers from NUS who are abroad : 16 
+Total number of localUsers from NUS in ASTAR : 0 
+Total number of localUsers from NUS in NTU : 2 
+Total number of localUsers from NUS in SMU : 1 
+Total number of localUsers from NUS in SUTD : 0 
+Total number of localUsers from NUS in NIE : 0 
+Total number of localUsers from NUS in total: 19 
+ 
+Total number of visitors to NUS : 490 
+ 
+Total number of localUsers from SUTD who are abroad : 0 
+Total number of localUsers from SUTD in ASTAR : 0 
+Total number of localUsers from SUTD in NTU : 0 
+Total number of localUsers from SUTD in SMU : 0 
+Total number of localUsers from SUTD in NUS : 0 
+Total number of localUsers from SUTD in NIE : 0 
+Total number of localUsers from SUTD in total: 0 
+ 
+Total number of visitors to SUTD : 0 
+ 
+Total number of localUsers from NIE who are abroad : 0 
+Total number of localUsers from NIE in ASTAR : 0 
+Total number of localUsers from NIE in NTU : 0 
+Total number of localUsers from NIE in SMU : 0 
+Total number of localUsers from NIE in NUS : 0 
+Total number of localUsers from NIE in SUTD : 0 
+Total number of localUsers from NIE in total: 0 
+ 
+Total number of visitors to NIE : 0 
+ 
+Total number of unique users this month to ASTAR : 0 
+Total number of rejectUnique users this month to ASTAR : 0 
+Total number of unique users this year to ASTAR : 0 
+Total number of rejectUnique users this year to ASTAR : 0 
+
+Total number of unique users this month to NTU : 274 
+Total number of rejectUnique users this month to NTU : 111 
+Total number of unique users this year to NTU : 274 
+Total number of rejectUnique users this year to NTU : 111 
+
+Total number of unique users this month to SMU : 120 
+Total number of rejectUnique users this month to SMU : 60 
+Total number of unique users this year to SMU : 120 
+Total number of rejectUnique users this year to SMU : 60 
+
+Total number of unique users this month to NUS : 596 
+Total number of rejectUnique users this month to NUS : 968 
+Total number of unique users this year to NUS : 596 
+Total number of rejectUnique users this year to NUS : 968 
+
+Total number of unique users this month to SUTD : 0 
+Total number of rejectUnique users this month to SUTD : 0 
+Total number of unique users this year to SUTD : 0 
+Total number of rejectUnique users this year to SUTD : 0 
+
+Total number of unique users this month to NIE : 0 
+Total number of rejectUnique users this month to NIE : 2 
+Total number of unique users this year to NIE : 0 
+Total number of rejectUnique users this year to NIE : 2 
+
+Total number of rejected from ASTAR for the day: 0 
+Total number of rejected from NTU for the day: 92 
+Total number of rejected from SMU for the day: 38 
+Total number of rejected from NUS for the day: 817 
+Total number of rejected from SUTD for the day: 0 
+Total number of rejected from NIE for the day: 0 
