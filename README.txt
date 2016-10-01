@@ -12,3 +12,5 @@ Test accounts -> test accounts for the various IHLs given by them to SingAREN
 workspace -> Understanding of the Stats code for intern, development of code here
 
 Note(24/09/16): This code is officially broken as seen from the website. :(
+
+Note(31/09/16): Now its working? Probably needs front-end improvement and an actual database.
